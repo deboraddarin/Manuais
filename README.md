@@ -6,4 +6,8 @@ Olá! Bem vindos  :hibiscus:
 
 - Manual 1
 
+- Manual 2
+
+- 
+
   
