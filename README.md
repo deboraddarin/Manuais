@@ -8,6 +8,6 @@ Olá! Bem vindos  :hibiscus:
 
 - Manual 2
 
-- 
+- manual 3
 
   
